@@ -9,7 +9,7 @@ Le simulateur _"ClarificationBassinSimulation.exe"_ ne vient pas de moi, il a é
 Apercu de l'interface
 
 voici lien vers le
-[Compte-Rendu](Compte-Rendu%20Supervision.md)
+[Compte-Rendu](Compte-rendu%20Supervision.md)
 
 Dedans on retouve un magnifique diagramme de classe UML, que j'ai fait grace a [yuml.me](https://yuml.me/), disponible dans ce fichier [source yuml](yuml.txt)
 
