@@ -1,0 +1,31 @@
+// Chain elements
+[Form]^-[FormCuve]
+[Form]^-[RefreshRateController|+refreshRate:int;]
+[FormCuve]++-1>[Cuve]
+[FormCuve]++-1>[Logger]
+[FormCuve]++-1>[AlarmeController]
+[Cuve]<-[ValveType]
+[Cuve]++-*>[TemperatureData]
+[Cuve]++-3>[Vanne]
+[Cuve]++-2>[FlowMeter]
+[Cuve]++-1>[Agitateur]
+[AlarmeController]++-*>[Alarme]
+[Alarme]++-1>[AlarmeType]
+[Alarme]<-[AlarmeMessage]
+[FormCuve] <-[ItemClientHandle] 
+
+
+[<<IDrawable>>;Cuve|-x:int;-y:int;-scale:float;-_container:Graphics;-niveau:float;-NIVEAU_MAX:int]
+
+[<<IDrawable>>;Vanne|-x:int;-y:int;-scale:float;-_container:Graphics;-etat:bool]
+
+[<<IDrawable>>;FlowMeter|-x:int;-y:int;-scale:float;-_container:Graphics;-_debit:float;-MAX_DEBIT:int]
+
+[<<IDrawable>>;Agitateur|-x:int;-y:int;-scale:float;-_container:Graphics;-etat:bool;+step:int;-timer:Timer;-chrono:Stopwatch;-totalTimeElapsed:TimeSpan]
+[TemperatureData|+temperature:float;+date:DateTime]
+
+[Alarme|+message:string;+time:TimeSpan]
+
+[Logger|+filePathAlarme:string;+filePathNiveau:string;+filePathTemperature:string;+folderPath:string;]
+
+[FormCuve|-serv:OPCServer;-browser:OPCBrowser;-group_principal:OPCGroup;-groudDatachangeNiveau:OPCGroup;-groupDatachangeTemp:OPCGroup;-cacheImage:Bitmap;-stored_hash_cuve:int;-background:Color;-primary:Color;-secondary:Color;-accent:Color;-bettergrey:Color;]

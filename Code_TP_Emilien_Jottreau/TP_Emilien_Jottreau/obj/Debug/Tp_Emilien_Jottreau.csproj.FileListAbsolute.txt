@@ -1,0 +1,54 @@
+D:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\WindowsFormsApplication1\obj\Debug\Tp_Emilien_Jottreau.csproj.AssemblyReference.cache
+D:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\WindowsFormsApplication1\obj\Debug\Tp_Emilien_Jottreau.csproj.SuggestedBindingRedirects.cache
+D:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\WindowsFormsApplication1\obj\Debug\Tp_Emilien_Jottreau.csproj.ResolveComReference.cache
+D:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\WindowsFormsApplication1\obj\Debug\TP_Emilien_Jottreau.Form1.resources
+D:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\WindowsFormsApplication1\obj\Debug\TP_Emilien_Jottreau.FormCuve.resources
+D:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\WindowsFormsApplication1\obj\Debug\TP_Emilien_Jottreau.RefreshRateControlerForm.resources
+D:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\WindowsFormsApplication1\obj\Debug\RoundedButton.resources
+D:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\WindowsFormsApplication1\obj\Debug\Tp_Emilien_Jottreau.csproj.GenerateResource.cache
+D:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\WindowsFormsApplication1\obj\Debug\Tp_Emilien_Jottreau.csproj.CoreCompileInputs.cache
+D:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+H:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\WindowsFormsApplication1\bin\Debug\TP_Emilien_Jottreau.exe.config
+H:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\WindowsFormsApplication1\bin\Debug\TP_Emilien_Jottreau.exe
+H:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\WindowsFormsApplication1\bin\Debug\TP_Emilien_Jottreau.pdb
+H:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\WindowsFormsApplication1\obj\Debug\TP_Emilien_Jottreau.csproj.AssemblyReference.cache
+H:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\WindowsFormsApplication1\obj\Debug\TP_Emilien_Jottreau.csproj.ResolveComReference.cache
+H:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\WindowsFormsApplication1\obj\Debug\TP_Emilien_Jottreau.FormCuve.resources
+H:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\WindowsFormsApplication1\obj\Debug\TP_Emilien_Jottreau.Properties.Resources.resources
+H:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\WindowsFormsApplication1\obj\Debug\TP_Emilien_Jottreau.RefreshRateControlerForm.resources
+H:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\WindowsFormsApplication1\obj\Debug\RoundedButton.resources
+H:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\WindowsFormsApplication1\obj\Debug\TP_Emilien_Jottreau.csproj.GenerateResource.cache
+H:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\WindowsFormsApplication1\obj\Debug\TP_Emilien_Jottreau.csproj.CoreCompileInputs.cache
+H:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\WindowsFormsApplication1\obj\Debug\TP_Emilien_Jottreau.exe
+H:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\WindowsFormsApplication1\obj\Debug\TP_Emilien_Jottreau.pdb
+H:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\TP_Emilien_Jottreau\bin\Debug\TP_Emilien_Jottreau.exe.config
+H:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\TP_Emilien_Jottreau\bin\Debug\TP_Emilien_Jottreau.exe
+H:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\TP_Emilien_Jottreau\bin\Debug\TP_Emilien_Jottreau.pdb
+H:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\TP_Emilien_Jottreau\obj\Debug\TP_Emilien_Jottreau.csproj.AssemblyReference.cache
+H:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\TP_Emilien_Jottreau\obj\Debug\TP_Emilien_Jottreau.csproj.ResolveComReference.cache
+H:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\TP_Emilien_Jottreau\obj\Debug\TP_Emilien_Jottreau.FormCuve.resources
+H:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\TP_Emilien_Jottreau\obj\Debug\TP_Emilien_Jottreau.Properties.Resources.resources
+H:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\TP_Emilien_Jottreau\obj\Debug\TP_Emilien_Jottreau.RefreshRateControlerForm.resources
+H:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\TP_Emilien_Jottreau\obj\Debug\RoundedButton.resources
+H:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\TP_Emilien_Jottreau\obj\Debug\TP_Emilien_Jottreau.csproj.GenerateResource.cache
+H:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\TP_Emilien_Jottreau\obj\Debug\TP_Emilien_Jottreau.csproj.CoreCompileInputs.cache
+H:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\TP_Emilien_Jottreau\obj\Debug\TP_Emilien_Jottreau.exe
+H:\COURS\5A\Supervision industrielle\TP\BaseTD1_OPCDA - Copie4.8\TP_Emilien_Jottreau\obj\Debug\TP_Emilien_Jottreau.pdb
+H:\COURS\5A\Supervision industrielle\TP\Code_TP_Emilien_Jottreau\TP_Emilien_Jottreau\bin\Debug\TP_Emilien_Jottreau.exe.config
+H:\COURS\5A\Supervision industrielle\TP\Code_TP_Emilien_Jottreau\TP_Emilien_Jottreau\bin\Debug\TP_Emilien_Jottreau.exe
+H:\COURS\5A\Supervision industrielle\TP\Code_TP_Emilien_Jottreau\TP_Emilien_Jottreau\bin\Debug\TP_Emilien_Jottreau.pdb
+H:\COURS\5A\Supervision industrielle\TP\Code_TP_Emilien_Jottreau\TP_Emilien_Jottreau\obj\Debug\TP_Emilien_Jottreau.csproj.AssemblyReference.cache
+H:\COURS\5A\Supervision industrielle\TP\Code_TP_Emilien_Jottreau\TP_Emilien_Jottreau\obj\Debug\TP_Emilien_Jottreau.csproj.ResolveComReference.cache
+H:\COURS\5A\Supervision industrielle\TP\Code_TP_Emilien_Jottreau\TP_Emilien_Jottreau\obj\Debug\TP_Emilien_Jottreau.FormCuve.resources
+H:\COURS\5A\Supervision industrielle\TP\Code_TP_Emilien_Jottreau\TP_Emilien_Jottreau\obj\Debug\TP_Emilien_Jottreau.Properties.Resources.resources
+H:\COURS\5A\Supervision industrielle\TP\Code_TP_Emilien_Jottreau\TP_Emilien_Jottreau\obj\Debug\TP_Emilien_Jottreau.RefreshRateControlerForm.resources
+H:\COURS\5A\Supervision industrielle\TP\Code_TP_Emilien_Jottreau\TP_Emilien_Jottreau\obj\Debug\RoundedButton.resources
+H:\COURS\5A\Supervision industrielle\TP\Code_TP_Emilien_Jottreau\TP_Emilien_Jottreau\obj\Debug\TP_Emilien_Jottreau.csproj.GenerateResource.cache
+H:\COURS\5A\Supervision industrielle\TP\Code_TP_Emilien_Jottreau\TP_Emilien_Jottreau\obj\Debug\TP_Emilien_Jottreau.csproj.CoreCompileInputs.cache
+H:\COURS\5A\Supervision industrielle\TP\Code_TP_Emilien_Jottreau\TP_Emilien_Jottreau\obj\Debug\TP_Emilien_Jottreau.exe
+H:\COURS\5A\Supervision industrielle\TP\Code_TP_Emilien_Jottreau\TP_Emilien_Jottreau\obj\Debug\TP_Emilien_Jottreau.pdb
